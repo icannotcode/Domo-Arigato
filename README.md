@@ -1,2 +1,3 @@
 # Domo-Arigato
 i will give it a try ...
+Well, this is my first commit.
